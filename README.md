@@ -33,7 +33,7 @@ Successfully built and validated a robust regression model that proves audience 
 
 ## Dashboard / Project Preview 
 ```markdown
-![Sentiment Model Results](Sentiment_Model_Results.png)
+![Sentiment Model Results](https://raw.githubusercontent.com/shaheen-dot/Movie-Success-Sentiment-Prediction/main/Sentiment_Model_Results.png)
 ```
 
 ---
