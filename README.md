@@ -31,8 +31,7 @@ Successfully built and validated a robust regression model that proves audience 
 
 ---
 
-## Dashboard / Project Preview *(Optional but HIGHLY RECOMMENDED)*
-
+## Dashboard / Project Preview 
 ```markdown
 ![Sentiment Model Results](Sentiment_Model_Results.png)
 ```
