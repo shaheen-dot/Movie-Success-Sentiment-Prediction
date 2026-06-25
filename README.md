@@ -31,13 +31,6 @@ Successfully built and validated a robust regression model that proves audience 
 
 ---
 
-## Dashboard / Project Preview 
-```markdown
-![Sentiment Model Results](https://raw.githubusercontent.com/shaheen-dot/Movie-Success-Sentiment-Prediction/main/Sentiment_Model_Results.png)
-```
-
----
-
 ## Files Included
 * Main Project File (`Movie_Success_Sentiment_Study.ipynb`)
 * Project Documentation (`Movie_Success_Project_Documentation_v3.pdf`)
